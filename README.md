@@ -1,2 +1,1 @@
-# LinuxAiBridgeDevPro
-Advanced LinuxAiBridgeDevPro project
+.
